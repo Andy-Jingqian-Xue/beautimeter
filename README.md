@@ -2,6 +2,8 @@
 
 A computational tool for evaluating architectural beauty based on Christopher Alexander's 15 properties of living structure. This project is part of my Master's thesis _Characterizing Architectural and Urban Beauty from the Perspective of Living Structure Using AI and Geospatial Big Data_, which leverages recent advancements in Large Language Models (LLMs) to compute the degree of beauty for building façades and street views, providing an objective measure of architectural aesthetics.
 
+![Beauty Score Evaluation Demo](pics/intro.png)
+
 ### Datasets
 
 - **ScenicOrNot Dataset**: 184,903 images in toal, including 15,806 images featuring building façades from [ScenicOrNot](https://scenicornot.datascienceforgood.com/)
