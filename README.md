@@ -22,11 +22,29 @@ A computational tool for evaluating architectural beauty based on Christopher Al
 
 The beauty score evaluation is based on Christopher Alexander's 15 properties of living structure:
 
-| Property        |
-| --------------- | ---------------- | ---------------------------- | ------------------------- | ---------------- |
-| Levels of Scale | Strong Centers   | Thick Boundaries             | Alternating Repetition    | Positive Space   |
-| Good Shape      | Local Symmetries | Deep Interlock and Ambiguity | Contrast                  | Gradients        |
-| Roughness       | Echoes           | The Void                     | Simplicity and Inner Calm | Not-Separateness |
+<table style="font-weight: normal;">
+    <tr>
+        <td>Levels of Scale</td>
+        <td>Strong Centers</td>
+        <td>Thick Boundaries</td>
+        <td>Alternating Repetition</td>
+        <td>Positive Space</td>
+    </tr>
+    <tr>
+        <td>Good Shape</td>
+        <td>Local Symmetries</td>
+        <td>Deep Interlock and Ambiguity</td>
+        <td>Contrast</td>
+        <td>Gradients</td>
+    </tr>
+    <tr>
+        <td>Roughness</td>
+        <td>Echoes</td>
+        <td>The Void</td>
+        <td>Simplicity and Inner Calm</td>
+        <td>Not-Separateness</td>
+    </tr>
+</table>
 
 ## Requirements
 
